@@ -1,0 +1,59 @@
+.banner-about{padding:3% 0; background:#367cd2; text-align:center;}
+.banner-about h1{color:#fff; font-size:40px; margin:0}
+.banner-about h4{color:#fff; font-family: 'Open Sans', sans-serif;font-size:20px; margin:0}
+.banner-about p{color:#fff; width:50%; margin:20px auto; font-weight:300}
+.clients{background:#f7f7f7; padding:20px 0; }
+
+.about-sec-two {margin:5% 0}
+.about-sec-two h1{ font-size:35px; margin:0}
+.about-sec-two h2{color:#7d7d7d; font-weight:300; margin:0}
+.about-sec-two .img{padding-top:20px;}
+
+.section-twin-green{background:#367cd2}
+.section-twin-green:hover{background:#2e7edf}
+.section-twin-green .img{background:url(../images/about_17.jpg) center; float:left;width:50%; min-height:355px; }
+.section-twin-green .bg{float:right;width:50%; text-align:center; padding:4% 5% 4% 5%; }
+.section-twin-green .bg h1{color:#fff;margin:0; }
+.section-twin-green .bg h3{color:#fff; font-weight:300; margin:0 0 20px 0; }
+.section-twin-green .bg p{color:#fff; font-weight:300; margin:0;font-size:15px;}
+
+.services{padding:3% 0;text-align:center;}
+.services .item{padding:3% 0;}
+.services .item p{padding:0 5%;}
+.services h2{ font-weight:300; margin:15px 0;font-size:35px;}
+.services .data{padding:0px 10% 40px 10%}
+.services .services-boxes{padding:3% 0;}
+.services .services-boxes i{font-size:130px;}
+#clients .owl-pagination{display:none}
+
+#gradient
+{
+  width: 100%;
+
+}
+
+@media only screen and (min-width : 320px) and (max-width : 991px){
+.section-twin-green .img, .section-twin-green .bg{width:100%}
+}
+
+@media only screen and (min-width : 320px) {
+        
+    }
+
+@media only screen and (min-width : 480px) {
+
+    }
+
+@media only screen and (min-width : 768px) {
+
+    }
+
+@media only screen and (min-width : 992px) {
+
+    }
+
+@media only screen and (min-width : 1200px) {
+
+    }
+ 
+
